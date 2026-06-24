@@ -6,7 +6,7 @@
 ![Language: ARM Assembly](https://img.shields.io/badge/language-ARM%20Assembly-blue)
 ![Language: C](https://img.shields.io/badge/language-C-555555)
 ![Platform: Raspberry Pi](https://img.shields.io/badge/platform-Raspberry%20Pi%20(armhf)-c51a4a)
-![License: 未指定](https://img.shields.io/badge/license-未指定-lightgrey)
+![License: 未指定](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
