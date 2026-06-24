@@ -1,0 +1,18 @@
+# C / 組譯編譯產物（可重新編譯，不該進版控）
+*.o
+*.elf
+*.obj
+*.bin
+obj/
+bin/
+
+# Code::Blocks IDE 專案/工作區暫存
+*.cbp
+*.layout
+*.depend
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
